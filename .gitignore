@@ -1,0 +1,22 @@
+# IDE files
+.idea/
+# node files
+node_modules/
+package-lock.json
+# configuration files
+.env
+# public/
+sonar-project.properties
+.sannerwork/
+.scannerwork/.sonar_lock
+.scannerwork/report-task.txt
+.DS_Store
+public/files/userJson.json
+public/Migration_Dec_16_21_15
+.github
+
+# managed by open-wa
+**.data.json
+**.node-persist**
+**_IGNORE_**
+# end managed by open-wa
